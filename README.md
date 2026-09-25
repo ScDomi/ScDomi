@@ -1,54 +1,31 @@
 # Hi, I'm Domi 👋
 
-I'm an AI-focused computer science student from Germany, interested in practical machine learning, data-driven tools, and automation systems that feel useful instead of overengineered.
+AI & computer science student from Germany, building practical ML projects, data tools, and local automation workflows.
 
-I like building things where code, data, and product thinking meet: deep-learning experiments, interactive visualizations, local AI workflows, and small web projects with personality.
+I like the space where code becomes useful: deep-learning experiments, interactive visualizations, agent-style workflows, and small web projects with personality.
 
-## Focus
+## What I work on
 
 - **Machine Learning & Deep Learning** — PyTorch, computer vision, model evaluation, experiment workflows
-- **Data & Visualization** — interactive dashboards, structured analysis, visual storytelling
-- **AI Automation** — local assistants, agent workflows, productivity tooling
+- **Data & Visualization** — dashboards, structured analysis, visual storytelling
+- **AI Automation** — local assistants, agents, productivity tooling
 - **Web Projects** — lightweight static sites, project pages, portfolio experiments
 
-## Selected work
+## Portfolio map
 
-### EMNIST Character Recognition
-Deep-learning project for handwritten character classification with PyTorch.
+| Area | Project | Status |
+| --- | --- | --- |
+| Deep Learning | **EMNIST Character Recognition** — PyTorch pipeline comparing ResNet/EfficientNet-style models with Optuna experiments and confusion-matrix evaluation | private cleanup → case study soon |
+| Data Visualization | **German Election Data Dashboard** — interactive browser dashboard for election data using JavaScript and p5.js | private cleanup → demo candidate |
+| AI Automation | **Personal AI / University Workflows** — local assistant workflows for planning, file organization, GitHub support, and recurring task automation | active local build |
+| Writing / Portfolio | [**DOMI.LOG**](https://scdomi.github.io/) — personal site about AI systems, cognition, agents, and weird useful tools | public |
 
-- transfer-learning experiments with ResNet/EfficientNet-style architectures
-- Optuna-based hyperparameter optimization
-- evaluation with accuracy metrics and confusion matrices
-- modular classifier exploration for class-group reasoning
+## Currently improving
 
-**Stack:** Python, PyTorch, Torchvision, Optuna, scikit-learn
-
-### German Election Data Dashboard
-Interactive dashboard for exploring German federal election data.
-
-- multiple visualization views for parties, constituencies, and turnout
-- CSV data processing in the browser
-- p5.js-based interactive charts
-- static web app architecture suitable for GitHub Pages
-
-**Stack:** JavaScript, HTML, CSS, p5.js
-
-### Personal AI / Productivity Workflows
-Local AI assistant workflows for university planning, file organization, GitHub support, and recurring task automation.
-
-- local workspace automation
-- weekly planning/check-in workflows
-- structured notes, scripts, and reusable AI context
-- focus on making AI tools practical for daily work
-
-**Stack:** Python, shell, GitHub CLI, local automation tools
-
-## What I'm currently improving
-
-- turning university projects into clean portfolio case studies
-- improving reproducibility and documentation for ML repos
-- building better local AI workflows for studying and coding
-- polishing my public portfolio site: [scdomi.github.io](https://scdomi.github.io/)
+- turning university projects into clean public case studies
+- making ML repos more reproducible and easier to understand
+- building local AI assistant workflows for studying and coding
+- polishing [scdomi.github.io](https://scdomi.github.io/) into a clearer project portfolio
 
 ## Tech I use
 
@@ -61,11 +38,11 @@ Local AI assistant workflows for university planning, file organization, GitHub 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
-## Public links
+## Links
 
-- Portfolio site: [scdomi.github.io](https://scdomi.github.io/)
+- Portfolio / writing: [scdomi.github.io](https://scdomi.github.io/)
 - GitHub: [github.com/ScDomi](https://github.com/ScDomi)
 
 ---
 
-Currently cleaning up the public side of my GitHub. Some of the more interesting projects are still private while I turn them from university/project archives into proper case studies.
+Most of my university projects are still private while I clean them up into public case studies. I would rather show fewer projects properly than make the whole archive public before it is readable.
