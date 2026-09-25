@@ -61,12 +61,10 @@ Local AI assistant workflows for university planning, file organization, GitHub 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
-## GitHub stats
+## Public links
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ScDomi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScDomi&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
-</p>
+- Portfolio site: [scdomi.github.io](https://scdomi.github.io/)
+- GitHub: [github.com/ScDomi](https://github.com/ScDomi)
 
 ---
 
