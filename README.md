@@ -76,14 +76,14 @@ A PyTorch deep-learning showcase built around the official EMNIST dataset.
 
 ### [Math & CS Foundations](https://github.com/ScDomi/math-cs-foundations)
 
-A public foundations archive for the math, algorithms and multi-language computer-science pieces that make the flashy AI stuff less fake.
+A multi-language foundations snapshot: Java, Prolog, C++ and Python projects from the layer underneath the flashy AI stuff.
 
-It includes Python demos, plus visible Java, Prolog and C++ showcase files instead of hiding the original-language work in an archive.
+Algorithms, game AI, constraint solving, OOP/file I/O and visual turmite simulations — kept as code-first portfolio evidence, not a fake open-source package.
 
 <details>
 <summary>What's inside</summary>
 
-Notes and material around the baseline concepts behind programming, math, algorithms and technical study work. Less aesthetic, more foundation layer.
+Java prime sieves and Tic-Tac-Toe AI, Prolog Sudoku, C++ inventory/OOP exercise, Python search/game/simulation scripts. Less aesthetic, more foundation layer.
 
 </details>
 
