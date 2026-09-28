@@ -33,7 +33,7 @@ Simple front door. Serious back room.
 - **Data:** dashboards, visual explanations, pattern-finding
 - **Creative tech:** websites, writing, interfaces and weird useful internet objects
 
-## Current public build
+## Public builds
 
 ### [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn)
 
@@ -55,15 +55,18 @@ A compact reinforcement-learning showcase built with PyTorch and Gymnasium's Car
 
 </details>
 
-## Next case studies
+### [EMNIST Deep Learning Showcase](https://github.com/ScDomi/emnist-deep-learning-showcase)
 
-### EMNIST Character Recognition
+A computer-vision project that reads handwritten characters.
 
-Handwritten character classification with PyTorch.
+Simple version: images go in, the model predicts the character.
 
 <details>
-<summary>Technical notes</summary>
+<summary>Technical version</summary>
 
+A PyTorch deep-learning showcase built around the official EMNIST dataset.
+
+- transfer-learning experiments with CNN architectures
 - ResNet/EfficientNet-style model comparisons
 - Optuna hyperparameter tuning
 - accuracy and confusion-matrix based evaluation
@@ -71,7 +74,18 @@ Handwritten character classification with PyTorch.
 
 </details>
 
-Status: **private cleanup → public case study soon**
+### [Math & CS Foundations](https://github.com/ScDomi/math-cs-foundations)
+
+A public foundations archive for the math and computer-science pieces that make the flashy AI stuff less fake.
+
+<details>
+<summary>What's inside</summary>
+
+Notes and material around the baseline concepts behind programming, math, algorithms and technical study work. Less aesthetic, more foundation layer.
+
+</details>
+
+## In cleanup / next demos
 
 ### German Election Data Dashboard
 
@@ -112,7 +126,9 @@ Status: **active local build**
 ## Public links
 
 - [Portfolio / DOMI.LOG](https://scdomi.github.io/) — public lab notebook and portfolio shell
-- [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn) — current public AI showcase
+- [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn) — reinforcement-learning showcase
+- [EMNIST Deep Learning Showcase](https://github.com/ScDomi/emnist-deep-learning-showcase) — computer-vision / PyTorch showcase
+- [Math & CS Foundations](https://github.com/ScDomi/math-cs-foundations) — foundations archive
 
 ```text
 currently: cleaning the archive → shipping fewer things, but making them actually readable
