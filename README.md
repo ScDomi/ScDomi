@@ -1,12 +1,7 @@
-<p align="center">
-  <sub>rules are defaults, not truth</sub>
-</p>
-
-<h1 align="center">ScDomi</h1>
+<h1 align="center">scryx</h1>
 
 <p align="center">
-  AI · agents · data · systems<br>
-  <strong>turning chaos into tools that actually do something</strong>
+  <sub>ScDomi · rules are defaults, not truth</sub>
 </p>
 
 <p align="center">
@@ -23,6 +18,17 @@ I build AI tools, experiments and small systems for a world that runs on too man
 Some rules are useful. Some protect people. A lot of them are just old settings nobody bothered to question.
 
 I like finding the machinery underneath: workflows, interfaces, models, incentives, habits, data, attention. Then I try to make it visible, useful, or at least less stupid.
+
+<details>
+<summary>why scryx?</summary>
+
+`scryx` is not about predicting the future. It is about reading the present correctly.
+
+Scrying used to mean staring into glass, water or a mirror until the hidden image appeared. Now the surface is a screen, a system, a rule, a feed, a model.
+
+Look long enough and normal starts looking like a setting.
+
+</details>
 
 Simple front door. Serious back room.
 
