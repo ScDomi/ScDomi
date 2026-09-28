@@ -1,8 +1,8 @@
-<h1 align="center">scryx</h1>
-
 <p align="center">
-  <sub>ScDomi · rules are defaults, not truth</sub>
+  <sub>scryx · rules are defaults, not truth</sub>
 </p>
+
+<h1 align="center">ScDomi</h1>
 
 <p align="center">
   <img alt="AI" src="https://img.shields.io/badge/AI-111111?style=for-the-badge&labelColor=111111&color=8B5CF6">
@@ -20,7 +20,7 @@ Some rules are useful. Some protect people. A lot of them are just old settings 
 I like finding the machinery underneath: workflows, interfaces, models, incentives, habits, data, attention. Then I try to make it visible, useful, or at least less stupid.
 
 <details>
-<summary>why scryx?</summary>
+<summary>signal</summary>
 
 `scryx` is not about predicting the future. It is about reading the present correctly.
 
