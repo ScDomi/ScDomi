@@ -1,80 +1,118 @@
-# Domi / ScDomi
+<p align="center">
+  <sub>rules are defaults, not truth</sub>
+</p>
 
-> I build AI tools, data experiments, and tiny systems that make messy thinking usable.
+<h1 align="center">ScDomi</h1>
 
-Not trying to look like every other "CS student passionate about technology" profile.
+<p align="center">
+  AI · agents · data · systems<br>
+  <strong>turning chaos into tools that actually do something</strong>
+</p>
 
-I am interested in the weird middle layer between **machine learning**, **personal tools**, **data**, and **human-feeling software**: systems that remember context, explain things clearly, automate boring work, and still have some personality left.
+<p align="center">
+  <img alt="AI" src="https://img.shields.io/badge/AI-111111?style=for-the-badge&labelColor=111111&color=8B5CF6">
+  <img alt="Agents" src="https://img.shields.io/badge/Agents-111111?style=for-the-badge&labelColor=111111&color=00FF9C">
+  <img alt="Data" src="https://img.shields.io/badge/Data-111111?style=for-the-badge&labelColor=111111&color=38BDF8">
+  <img alt="Systems" src="https://img.shields.io/badge/Systems-111111?style=for-the-badge&labelColor=111111&color=FF4D6D">
+</p>
 
-## What I build
+---
 
-```text
-AI / ML        → models, experiments, evaluation, computer vision
-Agents         → local workflows, context systems, task automation
-Data           → dashboards, visual explanations, pattern-finding
-Creative Tech  → websites, writing, weird useful internet objects
-```
+I build AI tools, experiments and small systems for a world that runs on too many bad defaults.
 
-## Featured now
+Some rules are useful. Some protect people. A lot of them are just old settings nobody bothered to question.
+
+I like finding the machinery underneath: workflows, interfaces, models, incentives, habits, data, attention. Then I try to make it visible, useful, or at least less stupid.
+
+Simple front door. Serious back room.
+
+## What this means in practice
+
+- **AI / ML:** models, experiments, evaluation, computer vision
+- **Agents:** local workflows, context systems, task automation
+- **Data:** dashboards, visual explanations, pattern-finding
+- **Creative tech:** websites, writing, interfaces and weird useful internet objects
+
+## Current public build
 
 ### [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn)
-A reinforcement-learning showcase using PyTorch and Gymnasium's CarRacing environment.
 
-- compact convolutional Q-network
-- replay memory + target-network updates
-- frame preprocessing from RGB pixels to stacked grayscale states
+An AI agent that learns to drive in a small racing simulator.
+
+That is the simple version.
+
+<details>
+<summary>Technical version</summary>
+
+A compact reinforcement-learning showcase built with PyTorch and Gymnasium's CarRacing environment.
+
+- convolutional Q-network for image-based state input
+- replay memory for off-policy learning
+- target-network updates for more stable Q-learning
+- RGB frame preprocessing into grayscale model input
 - checkpointed training and evaluation scripts
-- cleaned public repo with no old uni-chaos history
+- cleaned public repo, not a raw university-project dump
 
-This is the first project I cleaned into an actual case-study format instead of dumping the archive raw.
+</details>
 
-## Next case studies in cleanup
+## Next case studies
 
 ### EMNIST Character Recognition
-PyTorch deep-learning pipeline for handwritten character classification.
+
+Handwritten character classification with PyTorch.
+
+<details>
+<summary>Technical notes</summary>
 
 - ResNet/EfficientNet-style model comparisons
-- Optuna experiment tuning
-- accuracy + confusion matrices
+- Optuna hyperparameter tuning
+- accuracy and confusion-matrix based evaluation
 - modular-classifier experiment for class-group reasoning
+
+</details>
 
 Status: **private cleanup → public case study soon**
 
 ### German Election Data Dashboard
-Interactive browser dashboard for German federal election data.
 
-- party comparison, constituency view, turnout view
-- CSV processing in the browser
+A browser dashboard for exploring German federal election data.
+
+<details>
+<summary>Technical notes</summary>
+
+- CSV processing directly in the browser
+- party comparison, constituency view and turnout view
 - p5.js visualizations
 - GitHub Pages-ready static app
+
+</details>
 
 Status: **private cleanup → demo candidate**
 
 ### Local AI / University Workflows
-My own AI-assisted workspace for studying, planning, files, GitHub, and recurring tasks.
 
-- structured notes and reusable AI context
-- scripts for PDFs, course setup, workspace indexing
-- practical agent workflows instead of toy prompts
+My own AI-assisted workspace for studying, planning, files, GitHub and recurring tasks.
+
+This is less about toy prompts and more about building systems that remember context, remove friction and make studying less like fighting a pile of tabs.
 
 Status: **active local build**
 
-## Public links
-
-- [Portfolio / DOMI.LOG](https://scdomi.github.io/) — writing + portfolio shell about AI systems, cognition, agents, and external thinking
-- [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn) — current public AI showcase
-
-## Toolbox
+## Stack I use a lot
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-111?style=flat&logo=python&logoColor=FFD43B">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111?style=flat&logo=pytorch&logoColor=EE4C2C">
-  <img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-111?style=flat&logo=openaigym&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript&logoColor=F7DF1E">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111?style=flat&logo=html5&logoColor=E34F26">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111?style=flat&logo=css3&logoColor=1572B6">
-  <img alt="Git" src="https://img.shields.io/badge/Git-111?style=flat&logo=git&logoColor=F05032">
+  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FFD43B">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+  <img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-111111?style=flat-square&logo=openaigym&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6">
+  <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032">
 </p>
+
+## Public links
+
+- [Portfolio / DOMI.LOG](https://scdomi.github.io/) — public lab notebook and portfolio shell
+- [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn) — current public AI showcase
 
 ```text
 currently: cleaning the archive → shipping fewer things, but making them actually readable
