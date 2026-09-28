@@ -76,7 +76,9 @@ A PyTorch deep-learning showcase built around the official EMNIST dataset.
 
 ### [Math & CS Foundations](https://github.com/ScDomi/math-cs-foundations)
 
-A public foundations archive for the math and computer-science pieces that make the flashy AI stuff less fake.
+A public foundations archive for the math, algorithms and multi-language computer-science pieces that make the flashy AI stuff less fake.
+
+It includes Python demos, plus visible Java, Prolog and C++ showcase files instead of hiding the original-language work in an archive.
 
 <details>
 <summary>What's inside</summary>
