@@ -6,29 +6,65 @@
 
 <p align="center">
   <img alt="AI" src="https://img.shields.io/badge/AI-111111?style=for-the-badge&labelColor=111111&color=8B5CF6">
-  <img alt="Agents" src="https://img.shields.io/badge/Agents-111111?style=for-the-badge&labelColor=111111&color=00FF9C">
   <img alt="Data" src="https://img.shields.io/badge/Data-111111?style=for-the-badge&labelColor=111111&color=38BDF8">
+  <img alt="Research" src="https://img.shields.io/badge/Research-111111?style=for-the-badge&labelColor=111111&color=00FF9C">
   <img alt="Systems" src="https://img.shields.io/badge/Systems-111111?style=for-the-badge&labelColor=111111&color=FF4D6D">
 </p>
 
 ---
 
-I build AI tools, experiments and small systems for a world that runs on too many bad defaults.
+I build AI experiments, data tools and small systems for a world that runs on too many bad defaults.
 
 Some rules are useful. Some protect people. A lot of them are just old settings nobody bothered to question.
 
-I like finding the machinery underneath: workflows, interfaces, models, incentives, habits, data, attention. Then I try to make it visible, useful, or at least less stupid.
+I like finding the machinery underneath: models, workflows, interfaces, data, incentives, habits, attention. Then I try to make it visible, useful, or at least less stupid.
 
-Simple front door. Serious back room.
+```text
+simple front door. serious back room.
+```
 
 ## What this means in practice
 
-- **AI / ML:** models, experiments, evaluation, computer vision
-- **Agents:** local workflows, context systems, task automation
-- **Data:** dashboards, visual explanations, pattern-finding
-- **Creative tech:** websites, writing, interfaces and weird useful internet objects
+- **AI / ML:** model experiments, evaluation, computer vision, reinforcement learning
+- **Data:** dashboards, forecasting, visual explanations, pattern-finding
+- **Research:** AI for learning, LLM tutoring, Learning Analytics, mathematical reasoning
+- **Systems:** local workflows, automation, context-heavy tools, weird useful internet objects
+
+## Public front door
+
+### [DOMI.LOG / Portfolio](https://scdomi.github.io/)
+
+My public site for AI, data, research interests and selected technical work.
+
+It is not trying to be a clean template with a smiling stock-photo gradient. It has a neural-spine hero, brain/particle visuals, project tiles and the general energy of: *yes, I know the rules; no, I do not worship them.*
+
+<details>
+<summary>What's on the site</summary>
+
+- `surface of the machine.` homepage direction
+- scryx / rules-are-defaults identity layer
+- AI/data project entry points
+- reinforcement-learning and deep-learning visual material
+- portfolio links without turning the README into a CV
+
+</details>
 
 ## Public builds
+
+### [Renewable Energy Analytics](https://github.com/ScDomi/renewable-energy-analytics)
+
+A data analytics case study on Germany's electricity generation, renewable-energy growth and solar forecasting.
+
+<details>
+<summary>Technical version</summary>
+
+- public energy-data analysis in Python / pandas
+- electricity generation and renewable-growth exploration
+- solar forecasting angle
+- notebook-first workflow with cleaned portfolio framing
+- focus on visual explanation and data storytelling
+
+</details>
 
 ### [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn)
 
@@ -82,37 +118,20 @@ Java prime sieves and Tic-Tac-Toe AI, Prolog Sudoku, C++ inventory/OOP exercise,
 
 </details>
 
-## In cleanup / next demos
+## Research signal
 
-### German Election Data Dashboard
+Published research around prompt-moderated LLMs for tertiary math tutoring — basically: how AI can support learning without turning every educational problem into a shiny prompt demo.
 
-A browser dashboard for exploring German federal election data.
-
-<details>
-<summary>Technical notes</summary>
-
-- CSV processing directly in the browser
-- party comparison, constituency view and turnout view
-- p5.js visualizations
-- GitHub Pages-ready static app
-
-</details>
-
-Status: **private cleanup → demo candidate**
-
-### Local AI / University Workflows
-
-My own AI-assisted workspace for studying, planning, files, GitHub and recurring tasks.
-
-This is less about toy prompts and more about building systems that remember context, remove friction and make studying less like fighting a pile of tabs.
-
-Status: **active local build**
+- [ACL Anthology profile](https://aclanthology.org/people/dominik-schwagerl/)
+- [Portfolio](https://scdomi.github.io/) for the broader public-facing layer
 
 ## Stack I use a lot
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FFD43B">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-111111?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=F7931E">
   <img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-111111?style=flat-square&logo=openaigym&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26">
@@ -122,11 +141,13 @@ Status: **active local build**
 
 ## Public links
 
-- [Portfolio / DOMI.LOG](https://scdomi.github.io/) — public lab notebook and portfolio shell
+- [Portfolio / DOMI.LOG](https://scdomi.github.io/) — public site and project shell
+- [Renewable Energy Analytics](https://github.com/ScDomi/renewable-energy-analytics) — data analytics / forecasting case study
 - [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn) — reinforcement-learning showcase
 - [EMNIST Deep Learning Showcase](https://github.com/ScDomi/emnist-deep-learning-showcase) — computer-vision / PyTorch showcase
 - [Math & CS Foundations](https://github.com/ScDomi/math-cs-foundations) — foundations archive
+- [ACL Anthology](https://aclanthology.org/people/dominik-schwagerl/) — research profile
 
 ```text
-currently: cleaning the archive → shipping fewer things, but making them actually readable
+currently: fewer public things — more signal per thing
 ```
