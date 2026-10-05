@@ -32,11 +32,11 @@ simple front door. serious back room.
 
 ## Public front door
 
-### [DOMI.LOG / Portfolio](https://scdomi.github.io/)
+### [scryx](https://scdomi.github.io/)
 
-My public site for AI, data, research interests and selected technical work.
+My public interface for AI, data, research interests and selected technical work.
 
-It is not trying to be a clean template with a smiling stock-photo gradient. It has a neural-spine hero, brain/particle visuals, project tiles and the general energy of: *yes, I know the rules; no, I do not worship them.*
+The idea is not “portfolio template, but darker”. It is closer to a small system surface: rules as defaults, not truth; clean enough to navigate, strange enough to feel built by an actual person. The current site leans into neural-spine / brain / particle visuals, project tiles, and the `surface of the machine.` direction.
 
 <details>
 <summary>What's on the site</summary>
@@ -45,7 +45,7 @@ It is not trying to be a clean template with a smiling stock-photo gradient. It 
 - scryx / rules-are-defaults identity layer
 - AI/data project entry points
 - reinforcement-learning and deep-learning visual material
-- portfolio links without turning the README into a CV
+- public links without turning the README into a CV
 
 </details>
 
@@ -123,7 +123,7 @@ Java prime sieves and Tic-Tac-Toe AI, Prolog Sudoku, C++ inventory/OOP exercise,
 Published research around prompt-moderated LLMs for tertiary math tutoring — basically: how AI can support learning without turning every educational problem into a shiny prompt demo.
 
 - [ACL Anthology profile](https://aclanthology.org/people/dominik-schwagerl/)
-- [Portfolio](https://scdomi.github.io/) for the broader public-facing layer
+- [scryx](https://scdomi.github.io/) for the broader public-facing layer
 
 ## Stack I use a lot
 
@@ -141,7 +141,7 @@ Published research around prompt-moderated LLMs for tertiary math tutoring — b
 
 ## Public links
 
-- [Portfolio / DOMI.LOG](https://scdomi.github.io/) — public site and project shell
+- [scryx](https://scdomi.github.io/) — public site, project shell and identity layer
 - [Renewable Energy Analytics](https://github.com/ScDomi/renewable-energy-analytics) — data analytics / forecasting case study
 - [DQN CarRacing Agent](https://github.com/ScDomi/rl-car-racing-dqn) — reinforcement-learning showcase
 - [EMNIST Deep Learning Showcase](https://github.com/ScDomi/emnist-deep-learning-showcase) — computer-vision / PyTorch showcase
