@@ -13,39 +13,41 @@
 
 ---
 
-I build AI experiments, data tools and small systems for a world that runs on too many bad defaults.
+This is the public surface of my technical brain: AI experiments, data tools, research fragments, interface ideas and small systems that make hidden structure easier to see.
 
-Some rules are useful. Some protect people. A lot of them are just old settings nobody bothered to question.
+The motto is simple: **rules are defaults, not truth.** Some rules protect people. Some create clarity. A lot of them are just old settings nobody bothered to question.
 
-I like finding the machinery underneath: models, workflows, interfaces, data, incentives, habits, attention. Then I try to make it visible, useful, or at least less stupid.
+I like finding the machinery underneath — models, workflows, interfaces, datasets, incentives, habits, attention — and turning it into something visible, useful, or at least less stupid.
 
 ```text
-simple front door. serious back room.
+surface of the machine.
+rules are defaults.
 ```
 
-## What this means in practice
+## What lives here
 
-- **AI / ML:** model experiments, evaluation, computer vision, reinforcement learning
-- **Data:** dashboards, forecasting, visual explanations, pattern-finding
+- **AI / ML:** experiments, evaluation, computer vision, reinforcement learning
+- **Data:** visual explanations, forecasting, dashboards, pattern-finding
 - **Research:** AI for learning, LLM tutoring, Learning Analytics, mathematical reasoning
-- **Systems:** local workflows, automation, context-heavy tools, weird useful internet objects
+- **Systems:** local workflows, automation, context-heavy tools, useful weirdness
+- **Interface brainrot, but productive:** making technical things feel less dead
 
-## Public front door
+## Main surface
 
 ### [scryx](https://scdomi.github.io/)
 
-My public interface for AI, data, research interests and selected technical work.
+`scryx` is the external shell around the same idea: not a portfolio template, more like a readable cut through my head.
 
-The idea is not “portfolio template, but darker”. It is closer to a small system surface: rules as defaults, not truth; clean enough to navigate, strange enough to feel built by an actual person. The current site leans into neural-spine / brain / particle visuals, project tiles, and the `surface of the machine.` direction.
+AI, data, research, aesthetics, systems, unfinished thoughts that became tools — arranged as a site instead of rotting in folders. The visual direction is deliberately neural: spine, brain, particles, project tiles, and the `surface of the machine.` motto.
 
 <details>
-<summary>What's on the site</summary>
+<summary>What the site is trying to do</summary>
 
 - `surface of the machine.` homepage direction
-- scryx / rules-are-defaults identity layer
-- AI/data project entry points
-- reinforcement-learning and deep-learning visual material
-- public links without turning the README into a CV
+- represent the brain/system metaphor behind the work
+- keep the motto visible: rules are defaults, not truth
+- make AI/data/research projects discoverable without flattening them into a CV
+- connect the technical layer with the visual/personality layer
 
 </details>
 
@@ -120,7 +122,7 @@ Java prime sieves and Tic-Tac-Toe AI, Prolog Sudoku, C++ inventory/OOP exercise,
 
 ## Research signal
 
-Published research around prompt-moderated LLMs for tertiary math tutoring — basically: how AI can support learning without turning every educational problem into a shiny prompt demo.
+Published research around prompt-moderated LLMs for tertiary math tutoring — AI for learning, but with evaluation and actual educational context instead of pure prompt-demo energy.
 
 - [ACL Anthology profile](https://aclanthology.org/people/dominik-schwagerl/)
 - [scryx](https://scdomi.github.io/) for the broader public-facing layer
@@ -149,5 +151,5 @@ Published research around prompt-moderated LLMs for tertiary math tutoring — b
 - [ACL Anthology](https://aclanthology.org/people/dominik-schwagerl/) — research profile
 
 ```text
-currently: fewer public things — more signal per thing
+currently: externalizing the brain — fewer things, more signal per thing
 ```
