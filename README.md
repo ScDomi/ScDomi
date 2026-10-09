@@ -53,7 +53,7 @@ models      data traces    interfaces
 
 ### [scryx](https://scdomi.github.io/)
 
-`scryx` is the public shell around the same idea: a readable cut through my head, not a portfolio template wearing a dark hoodie.
+`scryx` is the technical part of my brain, made clickable: a public cut through models, data, interfaces and small systems — not a portfolio template wearing a dark hoodie.
 
 AI, data, research, aesthetics, systems, unfinished thoughts that became tools — arranged as a site instead of rotting in folders. The visual direction is deliberately neural: spine, brain, particles, project tiles, and the `surface of the machine.` motto.
 
