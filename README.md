@@ -13,7 +13,7 @@
 
 ```text
 surface of the machine.
-rules are defaults.
+rules are defaults, not truth.
 ```
 
 </div>
