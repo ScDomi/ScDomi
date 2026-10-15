@@ -117,6 +117,8 @@ The non-flashy layer: algorithms, logic, small simulations, constraint solving.
 
 Published research around prompt-moderated LLMs for tertiary math tutoring — AI for learning, but with evaluation and actual educational context instead of pure prompt-demo energy.
 
+Current thread: turning ML/DL coursework into cleaner, testable study workflows — then keeping only the parts worth shipping as public artifacts.
+
 - [ACL Anthology profile](https://aclanthology.org/people/dominik-schwagerl/)
 - [scryx](https://scdomi.github.io/) for the broader public-facing layer
 
