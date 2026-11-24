@@ -2,13 +2,13 @@
 
 <sub>scryx / ScDomi</sub>
 
-# surface of the machine.
+# inside, made visible.
 
-**I build AI systems, simulations and interfaces for making complex things inspectable.**
+**I build AI systems, simulations and interfaces that make complex things inspectable.**
 
 [![scryx](https://img.shields.io/badge/ENTER_SCRYX-050505?style=for-the-badge&logo=githubpages&logoColor=00FF9C)](https://scdomi.github.io/)
 [![research](https://img.shields.io/badge/RESEARCH-050505?style=for-the-badge&logo=semanticweb&logoColor=8B5CF6)](https://aclanthology.org/people/dominik-schwagerl/)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-GLOBAL_%23934-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/ScDomi/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-1900%2B_SOLVED-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/ScDomi/)
 
 ```text
 models ──► traces ──► interfaces
@@ -24,7 +24,17 @@ models ──► traces ──► interfaces
 
 I am interested in the layer beneath the output: how a model learns, how a system fails, what evidence survives, and whether an interface helps you see any of it.
 
-This profile is the curated surface. The broader system lives at **[scryx](https://scdomi.github.io/)**.
+> **rules are defaults, not truth.**<br>
+> Defaults are useful until they hide the system. Then I open the box.
+
+This profile is the curated evidence layer. The broader system lives at **[scryx](https://scdomi.github.io/)**.
+
+```text
+01  surface   look past the label
+02  pattern   find what repeats
+03  fork      edit the default
+04  evidence  make the thought inspectable
+```
 
 ## currently building
 
@@ -110,7 +120,7 @@ Data             forecasting · traces · visual explanation
 Systems          automation · reproducibility · local-first workflows
 Interfaces       simulations · technical storytelling · strange useful tools
 Research         AI for learning · mathematical reasoning · learning analytics
-Problem solving  algorithms · data structures · global LeetCode rank #934
+Problem solving  algorithms · data structures · 1,900+ LeetCode problems
 ```
 
 The tools change with the problem. Python and PyTorch show up often; TypeScript, React, pandas, scikit-learn, SQL, Three.js, Java, C++ and Prolog appear when they earn their place.
@@ -119,7 +129,7 @@ The tools change with the problem. Python and PyTorch show up often; TypeScript,
 
 ---
 
-**[scryx](https://scdomi.github.io/)** · **[LeetCode · global #934](https://leetcode.com/u/ScDomi/)** · **[research](https://aclanthology.org/people/dominik-schwagerl/)** · **[repositories](https://github.com/ScDomi?tab=repositories)**
+**[scryx](https://scdomi.github.io/)** · **[LeetCode · 1,900+ solved](https://leetcode.com/u/ScDomi/)** · **[research](https://aclanthology.org/people/dominik-schwagerl/)** · **[repositories](https://github.com/ScDomi?tab=repositories)**
 
 <sub>fewer things. more signal per thing.</sub>
 
